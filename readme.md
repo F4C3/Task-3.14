@@ -18,7 +18,17 @@
 
 ***5. [ Игнорирование файлов](./ignor.md)***
 
-***6. [ Команда git commit](./commit.md)***
+***6. [ Команда git add](./add.md)***
+
+***7. [ Команда git commit](./commit.md)***
+
+***8. [ Команда git amend](./amend.md)***
+
+***9. [ Команда git reset](./reset.md)***
+
+***10. [ Команда git push](./push.md)***
+
+***11. [ Ветвление](./branch.md)***
 
 
 
